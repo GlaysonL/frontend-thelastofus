@@ -1,0 +1,15 @@
+/* RESET é utilizado para trocar os estilos originais do navegador -- EXEMPLO: Estilo de espaçamento*/ 
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
